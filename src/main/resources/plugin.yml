@@ -1,0 +1,11 @@
+name: Spleef
+version: '${project.version}'
+main: me.chrisx97.spleef.Main
+api-version: 1.19
+authors: [ Chrisx97 ]
+description: Spleef plugin
+commands:
+  spleef:
+    description: spleef base command
+  inventory:
+    description: testing
